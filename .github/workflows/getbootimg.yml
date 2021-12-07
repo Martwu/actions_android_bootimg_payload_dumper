@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.5.0.RKHCNXM/miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/7cc91deaac80f190e3a1b8c4aa29aee6e4258c3d.zip
   TZ: Asia/Shanghai
 
 jobs:
